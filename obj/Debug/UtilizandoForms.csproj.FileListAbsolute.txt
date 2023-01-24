@@ -1,0 +1,10 @@
+C:\Users\Marianna\source\repos\UtilizandoForms\UtilizandoForms\bin\Debug\UtilizandoForms.exe.config
+C:\Users\Marianna\source\repos\UtilizandoForms\UtilizandoForms\bin\Debug\UtilizandoForms.exe
+C:\Users\Marianna\source\repos\UtilizandoForms\UtilizandoForms\bin\Debug\UtilizandoForms.pdb
+C:\Users\Marianna\source\repos\UtilizandoForms\UtilizandoForms\obj\Debug\UtilizandoForms.csprojAssemblyReference.cache
+C:\Users\Marianna\source\repos\UtilizandoForms\UtilizandoForms\obj\Debug\UtilizandoForms.frm_princ_calc.resources
+C:\Users\Marianna\source\repos\UtilizandoForms\UtilizandoForms\obj\Debug\UtilizandoForms.Properties.Resources.resources
+C:\Users\Marianna\source\repos\UtilizandoForms\UtilizandoForms\obj\Debug\UtilizandoForms.csproj.GenerateResource.cache
+C:\Users\Marianna\source\repos\UtilizandoForms\UtilizandoForms\obj\Debug\UtilizandoForms.csproj.CoreCompileInputs.cache
+C:\Users\Marianna\source\repos\UtilizandoForms\UtilizandoForms\obj\Debug\UtilizandoForms.exe
+C:\Users\Marianna\source\repos\UtilizandoForms\UtilizandoForms\obj\Debug\UtilizandoForms.pdb
